@@ -2,4 +2,4 @@
 An HTML based website developed with the Front-end languages like HTML,CSS,JS and the Back-end language PHP with MySQL database.
 
 Hosted as:
-##### https://litsocietygct.in
+##### http://litsocietygct.in
